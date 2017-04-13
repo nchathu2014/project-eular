@@ -1,0 +1,8 @@
+{
+  "name": "project-eular",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nchathu2014/project-eular.git",
+  "author": "nchathu2014@gmail.com",
+  "license": "MIT"
+}
